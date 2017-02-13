@@ -4,5 +4,6 @@ int main (void)
 {
     printf("Hello World");
     getchar();
-return 0;
+    printf("1223");
+    return 0;
 }
